@@ -1,0 +1,28 @@
+---
+title: "Research Projects"
+---
+
+::: {.callout-note}
+## La fabrique des contenus synthétiques : l'émergence d'un marché
+**Statut :** En cours  
+
+Qui vend quoi sur le marché des contenus synthétiques ?
+:::
+
+::: {.callout-tip}
+## Positionnement concurrentiel des plateformes de VOD
+**Statut :** Publié 
+
+[Lire la publication ➔](https://pcen.fr/activites/positionnement-concurrentiel-plateformes-de-streaming)
+
+Une étude de la structuration des catalogues de sept grandes plateformes disponibles en France.
+:::
+
+::: {.callout-tip}
+## Framing AI in the Audiovisual Industry
+**Statut :** Publié  
+
+[Lire le chapitre ➔](https://hal.science/hal-05536578/)
+
+This chapter examines how professionals in the audiovisual sector frame generative artificial intelligence (AI) on LinkedIn. In a context where debates surrounding AI oscillate between enthusiasm and anxiety, this chapter examines how these tools are embedded in professional identities, work routines, and imaginaries within the cultural and creative industries. The analysis draws on a French-language corpus of 11,526 posts, 9,235 comments, and 8,298 user biographies collected on LinkedIn between October 2022 and May 2025.
+:::

@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Anouck Butraud-Assathian"
+  navbar:
+    left:
+      - href: research.qmd
+        text: Research
+      - href: communications.qmd
+        text: Communications
+      - href: teaching.qmd
+        text: Teaching
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+publish:
+  output-dir: _site
