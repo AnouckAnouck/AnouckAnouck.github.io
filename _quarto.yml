@@ -1,15 +1,19 @@
 project:
   type: website
+  resources:
+    - "google0b1c69839077c1a0.html"
 
 website:
   title: "Anouck Butraud-Assathian"
+  site-url: "https://AnouckAnouck.github.io"
+  description: "PhD candidate in Economics specializing in cultural and digital economics at Centre d'Économie de la Sorbonne and PcEn Chair."
   navbar:
     left:
       - href: research.qmd
         text: Research
       - href: communications.qmd
         text: Communications
-      - href: teaching.qmd
+      - href: Teaching.qmd
         text: Teaching
 
 format:

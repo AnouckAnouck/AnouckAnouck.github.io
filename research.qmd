@@ -10,8 +10,19 @@ Qui vend quoi sur le marché des contenus synthétiques ?
 :::
 
 ::: {.callout-tip}
+## Recommendation in the era of GenAI: from an attention economy to a trust economy
+**Statut :** Publié 
+Avec Léna Laqueyrerie et Joelle Farchy
+
+[Lire la publication ➔](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1828344/full?utm_source=chatgpt.com)
+
+The article examines the shift in the digital cultural ecosystem triggered by the widespread adoption of Generative AI.
+:::
+
+::: {.callout-tip}
 ## Positionnement concurrentiel des plateformes de VOD
 **Statut :** Publié 
+Avec Léna Laqueyrerie et Joelle Farchy
 
 [Lire la publication ➔](https://pcen.fr/activites/positionnement-concurrentiel-plateformes-de-streaming)
 
@@ -21,6 +32,7 @@ Une étude de la structuration des catalogues de sept grandes plateformes dispon
 ::: {.callout-tip}
 ## Framing AI in the Audiovisual Industry
 **Statut :** Publié  
+Avec Cécile Méadel et Jaercio Da Silva
 
 [Lire le chapitre ➔](https://hal.science/hal-05536578/)
 

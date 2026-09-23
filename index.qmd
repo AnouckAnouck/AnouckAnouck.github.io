@@ -62,6 +62,8 @@ La concentration dans le live musical en France.
 
 **2026** Chargé de cours - Analyse de données (Data analysis) - M2 Économie de la Culture et du Numérique - Université Paris 1 Panthéon-Sorbonne
 
+**2026** Chargé de TD - Economie des médias - L3 Information Communication - Université Paris 2 Panthéon-Assas
+
 **2025-2026** Chargé de cours - Scraping de données (Data analysis) - M2 Économie de la Culture et du Numérique - Université Paris 1 Panthéon-Sorbonne
 
-[Voir les cours / See teaching ➔](teaching.qmd){.btn .btn-outline-primary .btn-sm}
+[Voir les cours / See teaching ➔](Teaching.qmd){.btn .btn-outline-primary .btn-sm}
