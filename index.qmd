@@ -18,13 +18,13 @@ title: "Anouck Butraud-Assathian"
 
 Je suis doctorante en économie, rattachée à la Chaire PcEn (Pluralisme culturel et Éthique du numérique) et au CES (Centre d'Économie de la Sorbonne, Université Paris 1 Panthéon-Sorbonne).
 
-Mes recherches portent principalement sur les modes d'accès à la culture numérique et sur la transformation des industries audiovisuelles et musicales sous l'influence des technologies numériques, notamment de l’IA.
+Mes recherches portent principalement sur les modes d'accès à la culture numérique et sur la transformation des industries audiovisuelles et musicales sous l'influence des technologies numériques, notamment de l’IA. Je travaille aussi sur les questions de structure de marché des industries culturelles. 
 
 ***
 
 I am a PhD Student in Economics, affiliated to the Chair PcEn (Cultural pluralism and Digital ethics) and the CES (Sorbonne Center of Economics, University of Paris 1).
 
-My research focuses primarily on modes of access to digital culture and on the transformation of the audiovisual and music industries under the influence of digital technology.
+My research focuses primarily on modes of access to digital culture and on the transformation of the audiovisual and music industries under the influence of digital technology. I also work on market structure issues in the cultural industries.
 
 </div>
 :::
@@ -40,16 +40,18 @@ My research focuses primarily on modes of access to digital culture and on the t
 
 La fabrique des contenus synthétiques : l'emergence d'un marché. 
 
-La concentration dans le live musical en France. 
+La musique live en France métropolitaine : conditions d’accès à la scène et au public
+
+Produire les récits : évolution des thèmes du cinéma français depuis 2000 et structure de production.
 
 [Voir tous les projets / See all projects ➔](research.qmd){.btn .btn-outline-primary .btn-sm}
 
 <br>
 
 ### Communication & conferences
-***A venir*** : 
+***Cette année*** : 
 
-**2026 Digital Publics Conference** : The synthetic content Factory. Zurich, Suisse (21-23 Octobre).
+**2026 Digital Publics Conference** : The synthetic content Factory. Zurich, Suisse.
 
 **2026 Masterclass Arte** : Comparative Analysis of Movie Catalogs. Paris, France. 
 
@@ -58,7 +60,7 @@ La concentration dans le live musical en France.
 <br>
 
 ### Teaching - Enseignement
-***A venir*** : 
+***En cours*** : 
 
 **2026** Chargé de cours - Analyse de données (Data analysis) - M2 Économie de la Culture et du Numérique - Université Paris 1 Panthéon-Sorbonne
 

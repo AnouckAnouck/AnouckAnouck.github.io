@@ -9,19 +9,46 @@ title: "Research Projects"
 Qui vend quoi sur le marché des contenus synthétiques ?
 :::
 
+
+
+::: {.callout-tip}
+## Produire les récits : évolution des thèmes du cinéma français depuis 2000 et structure de production.
+**Statut :** En cours  
+Avec Léna Laqueyrerie et Gabriel Tailleur
+
+:::
+
+::: {.callout-tip}
+## La musique live en France métropolitaine : conditions d’accès à la scène et au public
+**Statut :** En cours  
+Avec Léna Laqueyrerie 
+
+Cette étude dresse un panorama de la musique live en France métropolitaine en analysant l'organisation des salles, des déclarants de billetterie et la programmation de plus de 42~000 concerts entre 2022 et 2024.
+:::
+
 ::: {.callout-tip}
 ## Recommendation in the era of GenAI: from an attention economy to a trust economy
-**Statut :** Publié 
+**Statut :** Publié  
 Avec Léna Laqueyrerie et Joelle Farchy
 
-[Lire la publication ➔](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1828344/full?utm_source=chatgpt.com)
+[Lire la publication ➔](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1828344/full?)
 
 The article examines the shift in the digital cultural ecosystem triggered by the widespread adoption of Generative AI.
 :::
 
 ::: {.callout-tip}
-## Positionnement concurrentiel des plateformes de VOD
+## La créativité encombrante des deepfakes
 **Statut :** Publié 
+Avec Joelle Farchy
+
+[Lire la publication ➔](https://journals.openedition.org/terminal/12675)
+
+Dépassant l’approche dominante axée sur la seule menace informationnelle, cet article propose une analyse pluridisciplinaire des deepfakes pour saisir leur normalisation et leur rôle créatif ambivalent au sein des industries culturelles et créatives.
+:::
+
+::: {.callout-tip}
+## Positionnement concurrentiel des plateformes de VOD
+**Statut :** Publié  
 Avec Léna Laqueyrerie et Joelle Farchy
 
 [Lire la publication ➔](https://pcen.fr/activites/positionnement-concurrentiel-plateformes-de-streaming)

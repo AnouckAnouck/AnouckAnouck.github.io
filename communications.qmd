@@ -1,6 +1,9 @@
 ---
 title: "Communications & conferences"
 ---
+<br>
+
+**2026** **[Digital Publics Conference](https://digitalpublics.dsi.uzh.ch/app/uploads/2026/08/Program-Digital-Publics-Conference-updated3.pdf)** : *The Synthetic Content Factory*. Zurich, Suisse.
 
 <br>
 
@@ -13,7 +16,3 @@ title: "Communications & conferences"
 <br>
 
 **2025** **Masterclass Arte** : *Framing AI in the audiovisual industries on LinkedIn*. Paris, France. (hal-05657130)
-
-<br>
-
-**2026** **Digital Publics Conference** : *The Synthetic Content Factory*. Zurich, Suisse.
