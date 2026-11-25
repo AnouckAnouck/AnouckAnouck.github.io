@@ -11,14 +11,14 @@ Qui vend quoi sur le marché des contenus synthétiques ?
 
 
 
-::: {.callout-tip}
+::: {.callout-note}
 ## Produire les récits : évolution des thèmes du cinéma français depuis 2000 et structure de production.
 **Statut :** En cours  
 Avec Léna Laqueyrerie et Gabriel Tailleur
 
 :::
 
-::: {.callout-tip}
+::: {.callout-note}
 ## La musique live en France métropolitaine : conditions d’accès à la scène et au public
 **Statut :** En cours  
 Avec Léna Laqueyrerie 
