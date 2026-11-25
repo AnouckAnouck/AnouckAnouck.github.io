@@ -23,7 +23,7 @@ Avec Léna Laqueyrerie et Gabriel Tailleur
 **Statut :** En cours  
 Avec Léna Laqueyrerie 
 
-Cette étude dresse un panorama de la musique live en France métropolitaine en analysant l'organisation des salles, des déclarants de billetterie et la programmation de plus de 42~000 concerts entre 2022 et 2024.
+Cette étude dresse un panorama de la musique live en France métropolitaine en analysant l'organisation des salles, des déclarants de billetterie et la programmation de plus de 42\ 000 concerts entre 2022 et 2024.
 :::
 
 ::: {.callout-tip}
